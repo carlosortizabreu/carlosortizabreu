@@ -1,6 +1,7 @@
-# Hola que tal # 😍
-soy el chico de las poesías 
-tu fiel acmirador y el que no me conoci🐷a.
+# Hola que tal  😍
+
+## Soy el chico de las poesías 
+###### Tu fiel acmirador y el que no me conoci🐷a.
 
 jalajf 
 
