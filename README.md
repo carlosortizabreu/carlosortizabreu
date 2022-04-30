@@ -10,12 +10,12 @@
 # Trabajos.
 Context Menu in Fragment, Java [Video tutorial.](https://www.youtube.com/watch?v=Bgq44sybguA).
 
-
+Usa `git statusc para enumerar todos los archivos nuevos o modificados que aún no han sido confirmados.c
 
 <details>
  <summary> 
   
-  [CLICK ME]
+ ` CLICK ME `
  </summary>
 <p>
 
