@@ -18,11 +18,11 @@
 | --- | --- | --- | --- |
 | [<img  width="235,75" alt="imageRotating" src="https://user-images.githubusercontent.com/62256666/166295045-323e3ba2-5413-44d0-a773-c791986ef3c1.png" >](https://www.youtube.com/watch?v=MkxNMUWVsn8) |[<img  width="235,75" alt="contextMenuInFragment" src="https://user-images.githubusercontent.com/62256666/166296818-157e01c8-3953-44a1-ba31-64936537060f.png" >](https://www.youtube.com/watch?v=Bgq44sybguA) |[<img  width="235,75" alt="pdfFileAndroidStudio" src="https://user-images.githubusercontent.com/62256666/166296740-0adc92b5-741a-4e37-9ae0-9a9c714bf7cc.png" >](https://www.youtube.com/watch?v=3I4R_nYU3eQ) |[<img  width="235,75" alt="optionsMenuActivity" src="https://user-images.githubusercontent.com/62256666/166296676-29c99bbb-afd6-4c71-839b-15dcb6ea414f.png" >](https://www.youtube.com/watch?v=jfmYKBZGZl8) |
 
-<h3> Para ver mas videos
+<h3> For more videos:
 </h3>
 <details><summary> 
 
-  `  CLICK ME  `
+  `Click me `
 
  </summary>
  
